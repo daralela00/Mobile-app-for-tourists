@@ -23,8 +23,8 @@ Features:
 - Java
 - Android
 - SQLite (Room)
-- Weather API
-- Map API
+- Weather API (open-meteo.com API)
+- Map API (OSRM API)
 - Shared Prefference
 - RecycleView
 - Spinner
