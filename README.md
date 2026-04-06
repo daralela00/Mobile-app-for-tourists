@@ -14,6 +14,8 @@ Project has MVVM architecure.
 
 CRUD operations includes with database.
 
+Project has two layouts: one for mobiles and other for tablets.
+
 Features:
 - Java
 - Android
@@ -23,6 +25,7 @@ Features:
 - Shared Prefference
 - RecycleView
 - Spinner
+- Layout for mobile phones and tablets
 <img width="396" height="886" alt="1" src="https://github.com/user-attachments/assets/f04b781e-5f4c-4007-9cf8-505978e06768" />
 <img width="397" height="883" alt="2" src="https://github.com/user-attachments/assets/6f191cc3-624b-4911-8b75-69bc8e6169f0" />
 <img width="397" height="885" alt="3" src="https://github.com/user-attachments/assets/aa924657-a37e-4813-9250-678c379c74f3" />
