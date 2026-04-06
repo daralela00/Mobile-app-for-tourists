@@ -1,5 +1,8 @@
 # Mobile-app-for-tourists
 Mobile app for tourists [Java/Android/SQL]
+
+!!! App is in master branch, not main !!!
+
 This project has been done by 1 student from University of Novi Sad, Faculty of Mathematics.
 
 Its done as a project for univeristy.
